@@ -24,7 +24,6 @@
                  sh '''
                     curl -f -v -u admin:admin --upload-file payment.zip http://172.31.20.130:8081/repository/payment/payment.zip
                  '''
-
               }
            }
 
