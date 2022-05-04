@@ -3,7 +3,7 @@ avk(
     
      COMPONENT      :  'payment',
      PROJECT_NAME   :   'roboshop',
-     SLAVE_LABEL    :    'PYTHON',
+     SLAVE_LABEL    :    'MASTER',
      APP_TYPE       :    'PYTHON'
     )
  
